@@ -9,7 +9,12 @@
   "author": "mandos",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.1",
     "express": "^4.15.2",
+    "jsonwebtoken": "^7.3.0",
+    "mongodb": "^2.2.25",
+    "mongoose": "^4.9.0",
+    "morgan": "^1.8.1",
     "socket.io": "^1.7.3"
   }
 }
